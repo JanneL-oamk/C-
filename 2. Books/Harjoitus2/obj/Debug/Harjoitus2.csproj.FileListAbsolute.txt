@@ -1,0 +1,18 @@
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\bin\Debug\Harjoitus2.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\bin\Debug\Harjoitus2.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\bin\Debug\Harjoitus2.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\2. Books\Harjoitus2\obj\Debug\Harjoitus2.pdb

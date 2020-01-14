@@ -1,0 +1,18 @@
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\bin\Debug\PersonA.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\bin\Debug\PersonA.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\bin\Debug\PersonA.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\PersonA\PersonA\obj\Debug\PersonA.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\bin\Debug\PersonA.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\bin\Debug\PersonA.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\bin\Debug\PersonA.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\4. PersonA\PersonA\obj\Debug\PersonA.pdb

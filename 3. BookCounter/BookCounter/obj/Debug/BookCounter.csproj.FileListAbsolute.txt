@@ -1,0 +1,18 @@
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\bin\Debug\BookCounter.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\bin\Debug\BookCounter.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\bin\Debug\BookCounter.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\BookCounter\BookCounter\obj\Debug\BookCounter.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\bin\Debug\BookCounter.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\bin\Debug\BookCounter.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\bin\Debug\BookCounter.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\3. BookCounter\BookCounter\obj\Debug\BookCounter.pdb

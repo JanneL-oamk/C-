@@ -1,0 +1,18 @@
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\MouseEvent\MouseEvent\obj\Debug\MouseEvent.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\5. MouseEvent\MouseEvent\obj\Debug\MouseEvent.pdb

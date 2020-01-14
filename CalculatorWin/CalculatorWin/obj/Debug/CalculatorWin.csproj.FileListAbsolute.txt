@@ -1,0 +1,9 @@
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\bin\Debug\CalculatorWin.exe.config
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\bin\Debug\CalculatorWin.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\bin\Debug\CalculatorWin.pdb
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.csprojAssemblyReference.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.Form1.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.Properties.Resources.resources
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.csproj.GenerateResource.cache
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.exe
+C:\Koulu\5. Jakso\Windows ohjelmointi\koodit\CalculatorWin\CalculatorWin\obj\Debug\CalculatorWin.pdb
